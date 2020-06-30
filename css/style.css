@@ -1,0 +1,39 @@
+*{ 
+    box-sizing: border-box;
+}
+.sidebar{
+    background-color: #247772;
+ 
+}
+
+.nav-item active{
+    background-color: #13645F;
+}
+
+/* .body-header{
+    height: 60px;
+    background-color:white ;
+    
+} */
+
+.btn:hover {
+    color: #858796;
+    text-decoration: none;
+}
+.container-fluid{
+    background-color: #ECEFF1;
+}
+
+.alert-danger{
+    font-size: 12px;
+   
+}
+.alert{
+    width:56%;
+    height:37px;
+}
+.card-content{
+    display:flex;
+    flex-direction: column;
+    
+}
